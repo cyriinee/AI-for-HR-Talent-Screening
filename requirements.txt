@@ -1,0 +1,12 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+groq
+pydantic
+fastapi
+uvicorn[standard]
+pypdf
+cryptography
+python-dotenv
+
